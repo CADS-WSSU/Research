@@ -11,15 +11,12 @@ from langchain_community.vectorstores import FAISS
 from langchain.embeddings.base import Embeddings
 from langchain.agents import Tool
 from langchain.text_splitter import CharacterTextSplitter
-from dotenv import load_dotenv
 from keybert import KeyBERT
 from sentence_transformers import CrossEncoder, SentenceTransformer
 from typing import List
 from langchain.tools import WikipediaQueryRun
 from langchain.utilities import WikipediaAPIWrapper
 import requests
-
-load_dotenv()
 
 wikipedia = WikipediaQueryRun(api_wrapper=WikipediaAPIWrapper())
 
