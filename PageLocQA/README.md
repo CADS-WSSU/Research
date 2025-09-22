@@ -41,6 +41,6 @@ herein to any specific commercial product, process, or service by trade name, tr
 
 If you use this repository in your research, please cite the following paper:
 
-** Zarin T. Shejuti, Debzani Deb, Emily R. Dunkel, “From Answer to Origin: Page Number Grounding in Document-Level Question Answering”, 24th International Conference on Machine Learning and Applications (ICMLA), Boca Center, FL, USA, 2025. (Accepted)
+**Zarin T. Shejuti, Debzani Deb, Emily R. Dunkel, “From Answer to Origin: Page Number Grounding in Document-Level Question Answering”, 24th International Conference on Machine Learning and Applications (ICMLA), Boca Center, FL, USA, 2025. (Accepted)
 Zarin T. Shejuti, et al.  
 Accepted as a regular full paper (oral) at the **International Conference on Machine Learning and Applications (ICMLA 2025)**.  
